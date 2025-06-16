@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonny</h1>
 <h3 align="center">A penetration tester with a particular interest in phishing and SAP vulnerabilities.</h3>
 
-- 🔭 I’m currently working on [SAP, Crackle and POP!](https://github.com/JonnyPake/SAP-Crackle-POP)
+- 🔭 I’m currently working on [SAP, Crackle and POP!](https://github.com/JonnyPake/SAP-Crackle-POP) & [LureKit](https://github.com/JonnyPake/LureKit)
 
 - 📝 I regularly write articles on [complexsecurity.io](complexsecurity.io)
 
