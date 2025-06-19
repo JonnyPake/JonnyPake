@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [complexsecurity.io](complexsecurity.io)
 
-- 📫 How to reach me **jonathan@complexsecurity.io**
+- 📫 Reach out to me at: **jonathan@complexsecurity.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
