@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonny</h1>
-<h3 align="center">A penetration tester with a particular interest in phishing and SAP vulnerabilities.</h3>
+<h3 align="center">A penetration tester with a particular interest in SCADA/ICS & SAP vulnerabilities.</h3>
 
-- 🔭 I’m currently working on [SAPPIN-The-Enterprise](https://github.com/JonnyPake/SAPPIN-The-Enterprise) & [LureKit](https://github.com/JonnyPake/LureKit)
-  - SAPPIN-The-Enterprise was presented at BSides London 2025 and will be available on-demand soon!
-
-- 📝 I regularly write articles on [complexsecurity.io](complexsecurity.io)
-
-- 📫 Reach out to me at: **jonathan@complexsecurity.io**
+- 🔭 SAPPIN-The-Enterprise was presented at BSides London 2025 and is available now
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
