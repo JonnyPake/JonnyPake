@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonny</h1>
-<h3 align="center">A penetration tester with a particular interest in SCADA/ICS & SAP vulnerabilities.</h3>
+<h3 align="center">A penetration tester with a particular interest in SAP vulnerabilities.</h3>
 
 - 🔭 SAPPIN-The-Enterprise was presented at BSides London 2025 and is available now
 
